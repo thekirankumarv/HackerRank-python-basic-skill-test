@@ -10,3 +10,6 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/1a866e6
 - [FizzBuzz (Practice Question - Ungraded)](fizzbuzz.py)
 - [Shopping Cart](shopping-cart.py)
 - [Dominant Cells](dominant-cells.py)
+
+## Licence
+[MIT Licence](LICENCE)
