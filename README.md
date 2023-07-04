@@ -7,6 +7,6 @@ on __1st July 2023__.
 Certificate can be viewed [here](https://www.hackerrank.com/certificates/1a866e64539e)
 
 ## Programs 
-- [FizzBuzz (Practice Question - Ungraded)]()
-- [Shopping Cart]()
-- [Dominant Cells]()
+- [FizzBuzz (Practice Question - Ungraded)](fizzbuzz.py)
+- [Shopping Cart](shopping-cart.py)
+- [Dominant Cells](dominant-cells.py)
